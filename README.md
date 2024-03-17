@@ -1,3 +1,31 @@
+![Captura de Tela (140)](https://github.com/PauloAquarius0299/movieflix-web-app/assets/114706743/46eebc10-9f1f-49ab-b33d-63fe467d471b)
+
+# 📽️ MovieFlix Web-app
+Criei uma nova interface de aplicativo filmes streaming com ReactJs, Firebase e styled-components
+## 🎬 Introdução 
+A interface foi estilizada com cores do purpuro e laranja vibrante baseados no app da Disney Plus, na pagina de Login o usuario consegue acessar ao streaming com sua conta oficial do Google graças ao serviços de Authentication do Firebase, apos o cadastro o usuario tem acesso aos serviços do streaming onde todos os dados estão guardados no serviço de storage do firebase, onde por lá é possivel manipular e atualizar o filmes no catalo do streaming
+### 💡 Pre-Requisitos 
+* Instalação do ReactJs e Styled-components no VSCode.
+* Instalação do firebase 
+```
+npm install firebase 
+```
+### 🛠️ Ferramentas 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+# 🍿 LINK
+Você pode acessar com sua conta oficial do Google
+https://movieflix-paulodev.netlify.app/
+### Tela Home dos filmes
+![Captura de Tela (138)](https://github.com/PauloAquarius0299/movieflix-web-app/assets/114706743/ea2636c6-3948-40ff-80dd-fc78f781d523)
+![Captura de Tela (137)](https://github.com/PauloAquarius0299/movieflix-web-app/assets/114706743/2f002caf-e4af-4218-b1e1-9033e6a853dc)
+### Pagina de Detalhe dos filmes
+![Captura de Tela (139)](https://github.com/PauloAquarius0299/movieflix-web-app/assets/114706743/9155610f-8d18-4d76-8394-a62b348cc3af)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
