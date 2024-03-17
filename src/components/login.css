@@ -1,0 +1,16 @@
+.BgImage {
+    width: 100%;
+ 
+    background-image: url('https://dg3fwljcbubde.cloudfront.net/Landing/landing-bg-ww.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.3; 
+    background-color: black; /* Sobreposição de cor escura */
+  }
+  

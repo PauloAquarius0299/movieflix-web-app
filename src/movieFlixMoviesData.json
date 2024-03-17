@@ -1,0 +1,148 @@
+{
+    "movies": {
+        "1" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/95VlSEfLMqeX36UVcHJuNlWEpwf.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/xvk5AhfhgQcTuaCQyq3XqAnhEma.jpg",
+            "description": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aiden, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
+            "subTitle": "02/01/2024 (BR)Action, Adventure, Comedy",
+            "title": "Argylle",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C647DF3FFBFA343CFEA84AC715148F25F9E86F398B408010CC403E7654FB908/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "2" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7IJ7F8tX7IAkpUdaGovOBJqORnJ.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/cu5Qk2QHxOyyMrD3Bq93DxgmJer.jpg",
+            "description": "The arrogant, third most-wanted criminal in Taiwan, decides to get rid of the top two competitors and crowns himself the most-wanted criminal before dying.",
+            "subTitle": "10/06/2023 (TW) Action, Crime 2h 14m",
+            "title": "The Pig, the Snake and the Pigeon",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/50B933E83609BEEFEDFA177A6D96DBFA7804C14F70A0B5AB314E892E65498ACF/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "3" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/o6e8Y0Q7RZIWi4qcJq4s5OYOVJs.jpg",
+            "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "subTitle": "12/08/2023 (BR) Science Fiction, Romance, Comedy 2h 22m",
+            "title": "Poor Things",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7AEE1F05D10FC37C873176AAA26F777FC1B71E7A6563F36C6B1B497CAB1CEC2/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "4" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/8uVKfOJUhmybNsVh089EqLHUYEG.jpg",
+            "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            "subTitle": "02/29/2024 (BR) Science Fiction, Adventure 2h 47m",
+            "title": "Dune: Part Two",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F70235E3463A6F246EB462ED5379F9D41D6318E80098BD40900E7AFC1C7D932D/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "5" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "subTitle": "07/20/2023 (BR) Drama, History 3h 1m",
+            "title": "Oppenheimer",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E837DDE901CD036DD87A00F2D63E2F2458FAA798E62BE91F973AECCEA313A67E/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "6" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/ybn3jCia5XBD0ZgEM07gcUPuRNh.jpg",
+            "description": " While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the 'long-awaited one.' ",
+            "subTitle": "02/22/2024 (BR) Animation, Adventure, Fantasy 2h 4m",
+            "title": "The Boy and the Heron",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9562874BAB22B22A698368819B9EBF30FEB0291543552EB2416A5A61A73F63F4/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "7" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lYwjlcBjokC9EhfzfAOkTMQd5Ku.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+            "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+            "subTitle": "02/22/2024 (BR) Action, Thriller, War 1h 53m",
+            "title": "Land of Bad",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2041CE26663867FC4EF20377B8625BD629E619452E23BCDB1AB259DD475C2EA1/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "8" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+            "description": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+            "subTitle": "01/25/2024 (BR) Comedy, Romance 1h 43m",
+            "title": "Anyone But You ",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/37D80C5D1AB0BA65C63588311EC60A07342F60F91D402C28B8E1137AF6A30549/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "9" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A509165105A09F9F533E2008B143BCF38D6A5859D0EBB40CCA388772005CD94/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A13BEC78ACF76FC91A94A1595A62A42CC26DFC6259332C74E061ADA379024E5C/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she’s doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
+            "subTitle": "2020 • 6m • Family, Animation",
+            "title": "Burrow",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD8BBA864E290FBC03A244A488FFC8DC8365FBF2F95A122B1D57BF3772D717FD/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "10" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+            "description": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+            "subTitle": "12/07/2023 (BR) Comedy, Family, Fantasy 1h 57m",
+            "title": "Wonka",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/47A6FB38D95B3A5EF5583C9EED0B698ED2992CBA4AC7222DD3269DC92DFA03A6/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "11" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+            "description": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+            "subTitle": "01/11/2024 (BR) Action, Thriller, Drama 1h 45m",
+            "title": "The Beekeeper",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DDFF0FDF457E092EE53149CE7DB5BD14CB97E27B92D2D087E7C687B4E3073DE2/scale?width=1440&aspectRatio=1.78",
+            "type": "original"
+        },
+        "12" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+            "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+            "subTitle": "11/15/2023 (BR) Drama, Science Fiction, Action 2h 37m",
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes ",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7D8EFFDD30B2A0E205DDD9929207439B21E7595709769F2A23C50457664FFB2/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "13" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/yKAg8z8T1iXeYA0Io3E4u9mchdt.jpg",
+            "description": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+            "subTitle": "03/28/2024 (BR) Action, Science Fiction, Adventure 1h 55m",
+            "title": "Godzilla x Kong: The New Empire",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A31BE6502DC7A3A01DAF58DF7E91AB6FF598A078C8FA88A1DB2D7B7E25439464/scale?width=1440&aspectRatio=1.78",
+            "type": "recommend"
+        },
+        "14" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/s9YTxwaByYeoSqugYjJJtZjMRAG.jpg",
+            "description": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+            "subTitle": "11/24/2023 (DE) Action, Horror, Comedy, Thriller 1h 17m",
+            "title": "Skal - Fight for Survival",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FF3FCD567F0263430DFC33B9489CE2799AE33B50AD553DE65F03B3EA2E19828/scale?width=1440&aspectRatio=1.78",
+            "type": "trending"
+        },
+        "15" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+            "description": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+            "subTitle": "01/25/2024 (BR) Thriller, Mystery, Crime 2h 32m",
+            "title": "Anatomy of a Fall",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A67A42FB16607DAE7E22266D3F00181965178ED1884047C2D982EE7D89D3554/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        },
+        "16" :{
+            "backgroundImg": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+            "cardImg": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+            "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+            "subTitle": "10/19/2023 (BR) Crime, History, Drama 3h 26m",
+            "title": "Killers of the Flower Moon",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/97BB36F8B9FC053F561894DD7B1C42C4FD20E63560F481CBCB3B9D3600CFCA3B/scale?width=1440&aspectRatio=1.78",
+            "type": "new"
+        }
+    }
+}
